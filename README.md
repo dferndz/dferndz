@@ -2,7 +2,7 @@
 
 #### 📫 &nbsp;&nbsp;Contact
 Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [daniel.fernandez@utexas.edu](mailto:daniel.fernandez@utexas.edu). <br />
-LinkedIn: [daniel-fernandezdebedia](https://www.linkedin.com/in/daniel-fernandezdebedia/) <br />
+LinkedIn: [linkedin.com/in/daniel-fernandezdebedia](https://www.linkedin.com/in/daniel-fernandezdebedia/) <br />
 
 #### Tools and technologies
 
